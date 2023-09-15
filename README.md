@@ -1,6 +1,6 @@
 # NOTABLE SCHOOL PROJECTS 
 Thank you for taking the time to explore my academic projects! This repository holds a collection of projects and assignments that I completed during my academic studies. 
-Unfortunately, I cannot share the code that I wrote since they are technically property of the University of Pennsylvania, but I can explain what projects I have done.\
+Unfortunately, I cannot share the code that I wrote since they are technically property of the University of Pennsylvania, but I can explain what projects I have done.
 
 # JAVA: COVID DATA TRACKER
 I was tasked with developing a Java program that processes and analyzes real-world data related to Philadelphia's properties, population, and COVID-19 cases. The program accepts runtime arguments specifying data file names and provides a menu-driven interface for users to choose various actions, including calculating total populations, vaccination rates, property values, and implementing a custom feature. It must handle potential data errors, like missing or malformed entries, and display results based on the selected action, facilitating data-driven insights for users.

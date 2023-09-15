@@ -32,8 +32,8 @@ The Analyze Celebrity Deaths project highlights my Python skills in data analysi
 # C & Assembly: Executable Shell Program 
 This project showcases my proficiency in C and Assembly languages. It demonstrates my understanding of low-level programming and includes an executable shell program.
 
-# C: Pipeline/
-This project showcases my proficiency in C and Assembly languages. It demonstrates my understanding of low-level programming and includes an executable shell program.
+# C: Pipelines/Redirections
+The assignment involves developing a shell program in C that supports input and output redirection, error handling, and two-stage pipelines using system calls like dup2, open, and pipe. The shell must gracefully handle and report errors, including invalid or contradictory redirections. It's divided into two parts: the first focuses on input and output redirection, while the second extends functionality to support two-stage pipelines, and both parts require careful error checking and handling.
 
 Each project represents a unique aspect of my programming abilities and provides insight into my problem-solving approach.
 
